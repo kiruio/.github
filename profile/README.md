@@ -13,4 +13,6 @@ The repositories here represent a spectrum of work:
 This is a personal workspace made public for transparency and archival purposes. Projects are developed according to our own needs and timelines.
 
 ---
-> *Kirui — A personal archive of code and concepts.*
+> *Kirui — A personal archive of code and concepts. (∠・ω< )⌒★*
+<h3 align="right">👋Number of views</h4>
+<img align="right" src="https://count.getloli.com/get/@:kiruio?theme=rule34"/>
