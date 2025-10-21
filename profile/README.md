@@ -15,4 +15,4 @@ This is a personal workspace made public for transparency and archival purposes.
 ---
 > *Kirui — A personal archive of code and concepts. (∠・ω< )⌒★*
 <h3 align="right">👋Number of views</h3>
-<img align="right" src="https://count.getloli.com/get/@:kiruio?theme=rule34"/>
+<img align="right" src="https://counter.t.yamr.cc/@:kiruio?theme=rule34"/>
